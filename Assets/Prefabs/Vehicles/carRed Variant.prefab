@@ -53,7 +53,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 701754926738620170, guid: 4122d56cce0004c4cb15151e719d4bde, type: 3}
       propertyPath: m_Name
-      value: carRed
+      value: carRed Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5680232748165085497, guid: 4122d56cce0004c4cb15151e719d4bde, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5680232748165085497, guid: 4122d56cce0004c4cb15151e719d4bde, type: 3}
+      propertyPath: m_Color.g
+      value: 0.01978819
+      objectReference: {fileID: 0}
+    - target: {fileID: 5680232748165085497, guid: 4122d56cce0004c4cb15151e719d4bde, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6692278007483890341, guid: 4122d56cce0004c4cb15151e719d4bde, type: 3}
       propertyPath: m_Materials.Array.data[1]
