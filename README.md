@@ -3,8 +3,6 @@ Trifles Games 3D Artist Case Study
 
 Projeye ve iş akışına ait belirtmek istediğim detaylar:
 
- - Modellerin genelinde tek renk material kullandığımdan dolayı yalnızca gereken yerlerde UV açtım.
- 
  - Blender ve Photoshop dosyalarına Resources klasöründen ulaşabilirsiniz.
  
  - Dosyalama sistemi genel hatlarıyla şu şekilde
@@ -26,10 +24,15 @@ Projeye ve iş akışına ait belirtmek istediğim detaylar:
  düşündüm,
  
  - Liquid Tank objelerinde, tankın içindeki sıvılara BlendShape ekledim. Sıvının doluluk yüzdesi developer tarafından kolaylıka
- ayarlanabilir.
+ ayarlanabilir,
+ 
+ - Sol üstteki ses ikonu hariç tüm ikonlar bana ait. Zamandan tasarruf etmek adına ve evrensel bir ikon olduğu için ses ikonunu hazır aldım,
+ 
+ - Modellerin genelinde tek renk material kullandığımdan dolayı yalnızca gereken yerlerde UV açtım.
  
 
  - Software Versions
+ 
 	- Unity 2020.3.21f1
 	- Blender 3.1.2
 	- Adobe Photoshop 2020
