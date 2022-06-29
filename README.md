@@ -5,6 +5,8 @@ Projeye ve iş akışına ait belirtmek istediğim detaylar:
 
  - Modellerin genelinde tek renk material kullandığımdan dolayı yalnızca gereken yerlerde UV açtım.
  
+ - Blender ve Photoshop dosyalarına Resources klasöründen ulaşabilirsiniz.
+ 
  - Dosyalama sistemi genel hatlarıyla şu şekilde
 	- Model, texture, material vb. öğeler klasörledim,
 	- Benzer nitelikli objeler (vehicles, environment vb.) klasörledim,
@@ -25,6 +27,7 @@ Projeye ve iş akışına ait belirtmek istediğim detaylar:
  
  - Liquid Tank objelerinde, tankın içindeki sıvılara BlendShape ekledim. Sıvının doluluk yüzdesi developer tarafından kolaylıka
  ayarlanabilir.
+ 
 
  - Software Versions
 	- Unity 2020.3.21f1
